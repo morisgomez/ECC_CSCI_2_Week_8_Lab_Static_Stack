@@ -3,6 +3,7 @@ Create a Car Parts machine tracker with a Static Stack Class via Arrays and its 
 <br>
 <br>
 /*
+<br>
  Program Name: Static_Stack.cpp
  Programmer: Moris Gomez
  Date: Tuesday 04/03/2024
@@ -30,5 +31,4 @@ Create a Car Parts machine tracker with a Static Stack Class via Arrays and its 
  3. Display the top machine
  4. Display all machines
  5. Quit
-<br>
 */
