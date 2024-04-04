@@ -30,6 +30,5 @@ Create a Car Parts machine tracker with a Static Stack Class via Arrays and its 
  2. Remove a machine
  3. Display the top machine
  4. Display all machines
- 5. Quit
-<br>
+ 5. Quit<br>
 */
